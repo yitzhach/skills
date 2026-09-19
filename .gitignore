@@ -1,0 +1,7 @@
+# Managed by claude.ai account sync, not by this repo
+synced/
+
+# Installed plugins land elsewhere, but ignore defensively
+plugins/
+
+.DS_Store
